@@ -68,7 +68,7 @@ Wait for the results of the testing.
 - **Potential Improvements:** The state file `lib/models/state.dart` might be able to take some improvement in the future especially when selecting/sorting/accessing keys/majors.
 - **Known Issues:** At the moment of writing this manual, no bugs have been identified in the code.
 
-## Wbesite
+## Website
 
 **Website URL:** [Please click on this link to visit the website](https://mscpf-16ea7.web.app).
 
